@@ -7,6 +7,8 @@ Dive into the mesmerizing world of VisualMystique Mixer, where we blend signal-p
 
 VisualMystique Mixer lets you unravel the mysteries of signal components, providing a unique peek into how diverse frequencies shape the overall signal. Whether you're a curious student diving into signal processing or a seasoned pro working with images, this app offers a versatile playground for experimentation.
 
+## Preview
+![Animation Gif](Demo.gif)
 
 ## Features
 
@@ -33,15 +35,6 @@ VisualMystique Mixer lets you unravel the mysteries of signal components, provid
 - ### Real-time Jam
   The mixing process involves an ifft groove, and a progress bar keeps you in the loop. Interrupt the beat with a new mixing request? No problem, we cancel the previous operation intelligently.
 
-
-
-## Getting Started
-
-To embark on your image mixing journey with VisualMystique Mixer, follow the steps outlined below
-
-## Demo
-
-Curious to see the magic in action? Watch our demo video and experience the transformative power of our Mixer.
 
 ## Contributors
 
